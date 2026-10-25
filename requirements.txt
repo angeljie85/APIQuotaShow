@@ -1,0 +1,4 @@
+# Optional — only needed for the tray icon.
+# The widget itself runs on the Python standard library alone.
+pystray>=0.19
+Pillow>=9.0
