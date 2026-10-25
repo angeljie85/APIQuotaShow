@@ -1,4 +1,4 @@
-# Kimi 额度浮窗 · Kimi Usage Widget
+# APIQuotaShow · Kimi 额度浮窗
 
 一个常驻 Windows 桌面右下角的小工具，实时显示 **Kimi For Coding** 的 5 小时额度和 7 天额度，不用打开网页或客户端去查。
 
@@ -34,8 +34,8 @@ Kimi For Coding 有两层用量限制：**5 小时滚动窗口**和 **7 天窗�
 ## 快速开始
 
 ```bat
-git clone <repo-url>
-cd kimi-usage-widget
+git clone https://github.com/angeljie85/APIQuotaShow.git
+cd APIQuotaShow
 pip install -r requirements.txt
 ```
 
